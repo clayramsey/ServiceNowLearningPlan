@@ -1,6 +1,6 @@
 # Recruiter Pre-Screening Weighting Factors for ServiceNow Developer Openings
 
-### This document is used by the recruiter to insert pre-screening weighting factors in Taleo requisitions. These weighting factors assist recruiters in selecting candidates for further recruitment technical interviews to fill ServiceNow Developer opening.
+### This document is used by the recruiter to insert pre-screening weighting factors in Taleo requisitions. These weighting factors assist recruiters in selecting candidates for further recruitment technical interviews to fulfill ServiceNow Developer requisitions.
 
 1. Ensure the candidate has **development** experience in the ServiceNow environment, and not **only** "process implementation" or "resolving customer issues" experience.
    * Look for resume' items that describe technical analyis, design, and coding experience using ServiceNow Studio.
